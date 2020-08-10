@@ -1,0 +1,10 @@
+.wallpaper {
+    background-image: url(Avz.jpg);
+    background-size: cover;
+    background-position: right;
+    height: 400px;
+}
+
+input{
+    margin: 10px;
+}
